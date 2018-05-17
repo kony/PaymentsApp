@@ -1,2 +1,14 @@
-# PaymentsApp
-This App will showcase features like Payments Api, Keychain Api, Request App Review Api, Flex Container Blur and Segment row Height Animation
+PaymentsApp
+===========
+# Purpose
+This App will showcase following features:
+ * Payments API
+ * Keychain API
+ * Request App Review API
+ * Flex Container Blur 
+ * Segment row Height Animation
+
+# Supported platforms for Kony Visualizer 8.2
+**Mobile**
+ * Android
+ * iPhone
